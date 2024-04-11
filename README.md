@@ -1,6 +1,13 @@
 # shield-patch-spy
 a repo for cyber security game based off "Rock, Paper, Scissors" 
 
+---
+
+Players: Two cybersecurity professionals (you and your opponent)
+
+Objective: Each round, choose one of the three options to defend your system from a simulated cyberattack. The winner is the one who chooses the strategy that best counters the opponent's choice.
+
+---
 
 The Options:
 
